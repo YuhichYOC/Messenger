@@ -19,7 +19,7 @@
  *
  */
 
-package com.yoclabo.sms;
+package com.yoclabo.sms.Twilio;
 
 import com.twilio.Twilio;
 import com.twilio.rest.api.v2010.account.Message;

@@ -1,4 +1,4 @@
-package com.yoclabo.sms;
+package com.yoclabo.sms.Twilio;
 
 import org.junit.Test;
 
